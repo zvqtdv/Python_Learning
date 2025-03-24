@@ -1,2 +1,4 @@
-# Python_Learning
+## Python_Learning
 Creating a repository to make me determined to continue learning Python
+
+increase self-confidence
